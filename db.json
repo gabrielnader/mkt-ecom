@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "lettering-na-pratica"
+        },
+        {
+            "id": 2,
+            "name": "aprenda-a-desenhar"
+        },
+        {
+            "id": 3,
+            "name": "cores"
+        },
+        {
+            "id": 4,
+            "name": "tintas"
+        }
+    ]
+}
